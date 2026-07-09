@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Movilidad",
+  "descripcion": "Se reporta un hueco en una vía principal que dificulta el paso de vehículos y peatones."
+}
+
+Ejemplo 2:
+{
+  "tipo": "Seguridad",
+  "descripcion": "La comunidad informa que una zona del barrio permanece muy oscura durante la noche."
+}

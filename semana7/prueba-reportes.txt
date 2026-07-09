@@ -1,0 +1,5 @@
+Cuando se consulta la ruta GET /reportes, el servidor muestra la lista de reportes que han sido registrados mientras está encendido.
+
+Si antes se envía un reporte por POST, por ejemplo uno de movilidad, al consultar la ruta aparecen los datos guardados con un id, el tipo de reporte y su descripción.
+
+Esto permite comprobar que la API está recibiendo información y luego la puede mostrar de forma organizada.
