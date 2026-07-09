@@ -1,0 +1,10 @@
+Evento que activa el flujo:
+Un nuevo reporte comunitario es registrado en la plataforma.
+
+Mensaje que se enviaría a Telegram:
+“Nuevo reporte recibido. Revisar el sistema para hacer seguimiento.”
+
+Información que no debería enviarse por seguridad:
+No se deben enviar nombres completos, documentos de identidad, direcciones exactas, teléfonos, correos, claves ni datos sensibles de las personas.
+
+La idea es que Telegram sirva solo como aviso general, y que los detalles se revisen directamente en la plataforma con los permisos adecuados.

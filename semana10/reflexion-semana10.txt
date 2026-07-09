@@ -1,0 +1,7 @@
+Las metodologías ágiles ayudan a organizar mejor el trabajo porque permiten dividir un proyecto grande en tareas más pequeñas y manejables 
+El backlog sirve para ordenar prioridades y saber qué se debe hacer primero
+Trabajar por iteraciones permite avanzar poco a poco, revisar resultados y corregir errores a tiempo
+Además, herramientas como Telegram pueden facilitar la comunicación entre los miembros de una comunidad
+La automatización con n8n también puede ayudar a enviar avisos o recordatorios sin hacer todo manualmente
+Sin embargo, estas herramientas deben usarse con cuidado para no compartir información sensible
+En mi opinión, combinar organización, comunicación y responsabilidad permite que una comunidad trabaje mejor y participe de forma más ordenada.
