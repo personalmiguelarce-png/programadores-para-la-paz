@@ -1,0 +1,7 @@
+Es importante que las plataformas tecnológicas puedan recibir reportes de forma estructurada
+porque así la información llega más clara y organizada. Cuando los ciudadanos envían datos con campos definidos
+como nombre, tipo de reporte o descripción, es más fácil entender el problema y darle seguimiento
+Esto también ayuda a evitar confusiones y pérdida de información importante. En una comunidad
+este tipo de herramientas puede servir para reportar daños, alertas o necesidades del barrio
+Además, permite que las personas participen de manera más ordenada y responsable. En mi opinión
+recibir información estructurada fortalece la comunicación entre la comunidad y quienes deben atender esas situaciones.
