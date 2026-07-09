@@ -1,0 +1,5 @@
+1. Utilizar contraseñas seguras y cambiar las credenciales periódicamente.
+2. Limitar el acceso a la información según el rol de cada usuario.
+3. No publicar datos personales de los miembros de la comunidad.
+4. Mantener el sistema y las aplicaciones actualizadas.
+5. Registrar los accesos y actividades importantes para facilitar el seguimiento en caso de incidentes.
