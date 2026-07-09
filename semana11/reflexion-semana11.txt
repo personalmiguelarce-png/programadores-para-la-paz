@@ -1,0 +1,7 @@
+Una plataforma de participación ciudadana necesita una base de datos porque debe guardar la información de forma ordenada y permanente 
+Esto permite consultar causas, apoyos, reportes o registros sin que se pierdan
+También es importante tener autenticación para saber quién entra a la plataforma y qué acciones puede realizar
+No todos los usuarios deben tener los mismos permisos, especialmente cuando se manejan datos internos
+Proteger la información ayuda a evitar riesgos de privacidad o mal uso de los datos
+Además, una plataforma segura genera más confianza en la comunidad. En mi opinión, la tecnología puede fortalecer la participación
+pero solo si se usa con responsabilidad y cuidado.
