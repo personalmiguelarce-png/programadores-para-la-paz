@@ -1,0 +1,6 @@
+Es importante que los proyectos de software mantengan un registro de cambios porque esto permite trabajar de forma más ordenada y segura
+Con Git se puede saber qué archivos fueron modificados, cuándo se hicieron los cambios y qué avance tuvo el proyecto
+Esto ayuda a corregir errores, recuperar versiones anteriores y entender mejor el proceso de trabajo
+También facilita la colaboración cuando varias personas participan en el mismo proyecto. Además, al usar GitHub
+los cambios pueden quedar publicados y disponibles desde cualquier lugar. En mi opinión
+Git no solo sirve para guardar código, sino también para tener control y claridad sobre el desarrollo de un proyecto.
