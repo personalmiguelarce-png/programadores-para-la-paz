@@ -1,0 +1,7 @@
+Es importante que las plataformas comunitarias funcionen de manera estable 
+porque muchas personas pueden depender de ellas para informarse o participar
+Si el servidor falla constantemente, la comunidad puede perder confianza en la herramienta
+También es necesario que el sistema sea seguro para proteger la información y evitar accesos no autorizados
+Un servidor estable permite que los usuarios encuentren la plataforma disponible cuando la necesitan
+Además, revisar logs, hacer copias de seguridad y cuidar los accesos ayuda a prevenir problemas. En mi opinión
+una plataforma confiable no solo debe verse bien, también debe funcionar correctamente y cuidar a quienes la usan.
