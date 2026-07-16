@@ -1,0 +1,9 @@
+Durante el curso aprendí que la tecnología puede servir para organizar mejor las ideas y necesidades de una comunidad.
+También comprendí que no basta con crear una aplicación, sino que debe ser sencilla y útil para las personas.
+Herramientas como Git ayudan a mantener un registro de los cambios y a trabajar de una manera más ordenada.
+Las bases de datos permiten conservar reportes, causas y apoyos sin depender de mensajes sueltos.
+La autenticación y los permisos son importantes para evitar que cualquier persona acceda o modifique información privada.
+También aprendí que las automatizaciones pueden facilitar los avisos y el seguimiento de las actividades.
+Sin embargo, siempre se debe cuidar la información personal y evitar compartir datos sensibles.
+El proyecto “Petición en 3 Clics” demuestra que una idea tecnológica puede convertirse en una herramienta para organizar la participación.
+Lo más importante que me deja el curso es que la tecnología debe construirse pensando en las personas y en problemas reales.

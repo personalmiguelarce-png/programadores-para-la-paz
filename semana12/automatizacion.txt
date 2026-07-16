@@ -1,0 +1,12 @@
+Automatización propuesta con n8n y Telegram:
+
+Evento que activa la automatización:
+La plataforma detecta que una causa nueva fue registrada.
+
+Mensaje que se envía:
+“Nueva causa registrada en la plataforma. Ingresa al sistema para conocerla y revisar si deseas participar.”
+
+Información que no debe enviarse:
+No se deben compartir números de documento, direcciones exactas, teléfonos, contraseñas, correos privados, tokens ni información sensible de los usuarios.
+
+Telegram funcionaría solamente como un canal de aviso. Los detalles de la causa y la información protegida deberían consultarse directamente dentro de la plataforma.

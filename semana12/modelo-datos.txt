@@ -1,0 +1,35 @@
+Entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+- estado
+
+Propósito:
+Esta entidad sirve para guardar las necesidades, propuestas o peticiones creadas por la comunidad. También permite consultar cada causa y conocer si se encuentra activa, en revisión o finalizada.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id
+- causa_id
+- nombre
+- fecha
+
+Propósito:
+Esta entidad permite registrar los apoyos que recibe cada causa. El campo causa_id ayuda a identificar a cuál petición pertenece cada apoyo y permite llevar un conteo de la participación.
+
+
+Entidad: Documento
+
+Campos principales:
+- id
+- causa_id
+- fecha_generacion
+- nombre_archivo
+
+Propósito:
+Esta entidad permite registrar cuándo se generó el documento formal de una causa y mantener un seguimiento de los archivos creados por la plataforma.
